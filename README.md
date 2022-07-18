@@ -5,7 +5,7 @@
 
 jest-sonar-reporter is a custom results processor for Jest.
 The processor converts Jest's output into Sonar's
-[generic test data](https://docs.sonarqube.org/display/SONAR/Generic+Test+Data) format.
+[generic test data](https://docs.sonarqube.org/latest/analysis/generic-test/) format.
 
 ## Installation
 
